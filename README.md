@@ -1,3 +1,5 @@
+![logo](https://www.shutterstock.com/image-vector/devops-banner-concept-development-operation-260nw-2182404347.jpg)
+
 <h1 align="center">Hi 👋, I'm Muruli</h1>
 <h3 align="center">A passionate Network Engg /Devops Engg From India. I work in Govt and in my free time i make youtube videos at https://youtube.com/@amazonserviceslab</h3>
 
