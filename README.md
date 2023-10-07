@@ -6,7 +6,7 @@
   
 <img align="right" alt="coding" height="200" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif">
 
-<p align="left"> <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif" alt="murulii" /> </p>
+
 
 - 🔭 I’m currently working on **Govt Project**
 
