@@ -3,6 +3,7 @@
 <body bgcolor="yellow">
 <h1 align="center">Hi 👋, I'm Muruli</h1>
 <h3 align="center">A passionate Network Engg /Devops Engg From India. I work in Govt and in my free time i make youtube videos at https://youtube.com/@amazonserviceslab</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
 <img align="right" alt="coding" height="200" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif">
 
