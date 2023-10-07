@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
   
-<img align="right" alt="coding" height="200" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif">
+<img align="right" alt="coding" height="300" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif">
 
 
 
