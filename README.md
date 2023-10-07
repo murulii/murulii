@@ -22,7 +22,7 @@
   
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <img src="https://kubernetes.io/images/favicon.png" alt="k8s" width="40" height="40"/>
-<img src="https://github.com/murulii/murulii/tree/checkout/img/k8s-logo.png" alt="aws" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="aws" width="40" height="40"/>
   
 
 
