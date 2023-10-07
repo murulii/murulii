@@ -1,5 +1,5 @@
 ![logo](https://img.freepik.com/free-vector/development-operations-banner-devops-concept_107791-2220.jpg)
-
+<body bgcolor="yellow">
 <h1 align="center">Hi 👋, I'm Muruli</h1>
 <h3 align="center">A passionate Network Engg /Devops Engg From India. I work in Govt and in my free time i make youtube videos at https://youtube.com/@amazonserviceslab</h3>
 
@@ -25,7 +25,7 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <img src="https://kubernetes.io/images/favicon.png" alt="k8s" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="aws" width="40" height="40"/>
-  
+  </body>
 
 
 
