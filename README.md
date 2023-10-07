@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Muruli</h1>
 <h3 align="center">A passionate Network Engg /Devops Engg From India. I work in Govt and in my free time i make youtube videos at https://youtube.com/@amazonserviceslab</h3>
   
-<img align="right" alt="coding" width="400" src="#">
+<img align="right" alt="coding" height="200" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif">
 
 <p align="left"> <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif" alt="murulii" /> </p>
 
